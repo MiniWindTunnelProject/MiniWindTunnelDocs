@@ -1,0 +1,32 @@
+
+FanMotor:
+    Name: Wind Tunnel Fan Motor
+    Description: An ebm-papst electric fan to power the mini wind tunnels
+    Specs:
+        Power: Electric
+        Size: 250 mm fan diameter
+        Spec Sheet: https://www.mouser.co.uk/datasheet/2/120/Data_sheet_US_-_W1G250HJ8702_KM99077_-1855885.pdf
+    Suppliers:
+        Mouser:
+            PartNo: W1G250-HJ87-02 
+            Link: https://www.mouser.co.uk/ProductDetail/ebm-papst/W1G250-HJ87-02?qs=Cb2nCFKsA8o3UJP6PgA8lw%3D%3D
+MotorPowerSupply:
+    Name: Power supply for motor
+    Description: LED driver to power wind tunnel fan motor
+    Specs:
+        Power: Electric
+        Specs: 300W, 24V, 12.5 amps 
+    Suppliers:
+        Powersupplies online:
+            PartNo: ELG-300-24A
+            Link: https://www.powersuppliesonline.co.uk/power-supplies/led-lighting-power-supplies/elg-series-mean-well/elg-300-24a-300w-24v-12-5a-led-lighting-power-supply.html
+FanController:
+    Name: Fan speed controller
+    Description: Fan speed controller for use with ebm-papst EC fans
+    Specs:
+        Power: Electric
+        Specs: 10V dc, 1.1 mA
+    Suppliers:
+        RS Components:
+            PartNo: RS Stock no. 743-4807
+            Link: https://uk.rs-online.com/web/p/fan-speed-controllers/7434807?cm_mmc=UK-PLA-DS3A-_-google-_-CSS_UK_EN_HVAC_%26_Fans_%26_Thermal_Management_Whoop-_-Fan+Speed+Controllers_Whoop+(2)-_-7434807&matchtype=&pla-529871992272&gclid=Cj0KCQiAxoiQBhCRARIsAPsvo-zds-5QspzLpd6zAtBXLCDHh1QsVrHyLCIougeadkdKceGXRfvTTnAaApTjEALw_wcB&gclsrc=aw.ds

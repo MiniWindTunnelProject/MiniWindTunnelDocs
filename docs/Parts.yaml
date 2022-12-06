@@ -1,0 +1,11 @@
+
+TunnelMotor:
+    Name: Motor
+    Description: The motor to power the mini wind tunnels
+    Specs:
+        Link: https://www.mouser.co.uk/datasheet/2/120/Data_sheet_US_-_W1G250HJ8702_KM99077_-1855885.pdf
+    Suppliers:
+        Mouser:
+            PartNo: W1G250-HJ87-02 
+            Link: https://www.mouser.co.uk/ProductDetail/ebm-papst/W1G250-HJ87-02?qs=Cb2nCFKsA8o3UJP6PgA8lw%3D%3D
+            Price: £308.21	
